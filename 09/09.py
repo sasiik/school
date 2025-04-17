@@ -1,5 +1,5 @@
 """
-Kotitehtävät 9 & 10
+Kotitehtävät 9
 
 """
 
